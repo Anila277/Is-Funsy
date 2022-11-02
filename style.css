@@ -1,0 +1,142 @@
+/* reset css */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* border: 2px solid red; */
+    background-color: rgb(222, 245, 176);
+}
+  
+
+h1 {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin: 0 auto;
+    font-family: 'Silkscreen';
+    font-size: 80px;
+    background-color: teal;
+    color: wheat;
+}
+
+.all {
+    /* border: 2px solid red; */
+    width: 60%;
+    margin: auto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar {
+    /* border: 2px solid red; */
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+
+}
+
+ul {
+    /* border: 2px solid red; */
+    flex: 1;
+    text-align: right;
+}
+ul li{
+    /* border: 2px solid red; */
+    display: inline-block;
+    list-style: none;
+    margin: 0 25px;
+}
+
+ul li a {
+    /* border: 2px solid red; */
+    text-decoration: underline;
+    color: rebeccapurple;
+    padding: 0 10px;
+    position: relative;
+}
+
+ul li a::after{
+    /* border: 2px solid red; */
+    content: '';
+    width: 0;
+    height: 10px;
+    background: maroon;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -5px;
+    transition: 0.7s;
+}
+ul li a:hover:after{
+    width: 100%;
+
+}
+.line {
+    /* border: 2px solid red; */
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: right;
+    border: 2px solid teal;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+    border: 2px solid rgb(48, 184, 248);
+    display: block;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    background-color: rgb(213, 213, 236);
+   
+}
+
+.background {
+    /* border: 2px solid red; */
+    background-color: papayawhip;
+}
+
+.search-box {
+    /* border: 2px solid red; */
+    width: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+input {
+    font-size: 20px;
+}
+button {
+    font-size: 20px;
+    color: green;
+}
+
+.bottomLine {
+    border: 2px solid teal;
+    width: 35%;
+    margin: 0 auto;
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 35px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    text-align: center; 
+    color:rgb(8, 134, 193);
+
+}   

@@ -1,0 +1,139 @@
+/* reset css */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* border: 2px solid red; */
+    background-color: rgb(222, 245, 176);
+}
+
+h1 {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin: 0 auto;
+    font-family: 'Silkscreen';
+    font-size: 80px;
+    background-color: teal;
+    color: wheat;
+    /* position: fixed center; */
+}
+
+h3 {
+    display: flex;
+    justify-content: left;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-size: 50px;
+    bottom: 40px;
+    margin-bottom: 150px;
+    
+}
+.btn {
+    display: flex;
+    justify-content: left;
+    width: 24%;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-size: 19px;
+    bottom: 10px;
+    margin-bottom: 10px;
+    color: rgb(96, 96, 228);
+    background-color: rgb(108, 226, 108);
+    font-weight: bold;
+    
+
+}
+p {
+    display: flex;
+    justify-content: right;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 40px;
+    font-size: 30px;
+    bottom: 40px;
+    margin-bottom: 150px;
+}
+.all {
+    /* border: 2px solid red; */
+    width: 60%;
+    font-size: 30px;
+    font-weight:bold;
+    color: rgb(158, 42, 200);
+    margin: auto;
+ 
+}
+
+.navbar {
+    /* border: 2px solid red; */
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+
+ul li{
+    /* border: 2px solid red; */
+    display: inline-block;
+    list-style: none;
+    margin: 0 25px;
+    text-decoration: overline double;
+}
+
+
+
+.line {
+    /* border: 2px solid red; */
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: right;
+    border: 2px solid teal;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+    border: 2px solid rgb(48, 184, 248);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-bottom: 30px;
+    background-color: rgb(213, 213, 236);
+}
+
+.background {
+    /* border: 2px solid red; */
+    background-color: papayawhip;
+}
+
+.bottomLine {
+    border: 2px solid teal;
+    width: 35%;
+    margin: 0 auto;
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 35px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    text-align: center; 
+    color:rgb(8, 134, 193);
+
+}  
