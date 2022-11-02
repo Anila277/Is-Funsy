@@ -20,7 +20,7 @@ Bootstrap
 
 
 ## Getting started
-[https://anila277.github.io/Project-One/] to see the deployed app!
+[IsFunsy](https://anila277.github.io/Is-Funsy/)
 
 
 ## Future Enhancements
