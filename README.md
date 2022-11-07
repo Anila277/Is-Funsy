@@ -11,20 +11,16 @@ Bootstrap
 -Google Fonts
 
 ## Screenshots 
+<img width="1020" alt="Screen Shot 2022-08-18 at 9 33 38 AM" src="https://user-images.githubusercontent.com/110471140/185408056-5b5867a2-1739-4212-b1be-1c71b652a5ed.png">
 
-<<<<<<< HEAD
+<img width="1004" alt="Screen Shot 2022-08-18 at 9 32 19 AM" src="https://user-images.githubusercontent.com/110471140/185408077-8b0bd232-1c6b-483b-9393-e68408eb0ab0.png">
+
 
 =======
-<img width="867" alt="Screen-Shot" src="https://user-images.githubusercontent.com/110471140/184995398-5a8c23af-b0c3-4f84-9fc4-e6bc9f974fc1.png">
-
-![main](https://user-images.githubusercontent.com/110471140/184995408-9d794466-2cce-4cac-a665-fbaf08450e90.png)
-
-![about](https://user-images.githubusercontent.com/110471140/184995414-f45b6f50-24b6-412a-a0d4-d6ccb129abaf.png)
->>>>>>> 62996ed04495804f4f4ecdb27b4ca9265d27471b
 
 
 ## Getting started
-[https://anila277.github.io/Project-One/] to see the deployed app!
+[IsFunsy](https://anila277.github.io/Is-Funsy/)
 
 
 ## Future Enhancements
@@ -33,3 +29,4 @@ Bootstrap
 -being able to show gifs based on mood
 
 -create About/profile
+
