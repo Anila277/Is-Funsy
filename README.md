@@ -17,7 +17,7 @@ Bootstrap
 
 
 =======
-
+.
 
 ## Getting started
 [IsFunsy](https://anila277.github.io/Is-Funsy/)
